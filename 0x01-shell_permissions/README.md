@@ -8,3 +8,4 @@ Script adding execute permission to hello
 Script giving permission to user and group read and execute
 Script giving execution permission to everybody
 Script giving different permissions to user, group and other
+Script editing hello
