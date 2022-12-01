@@ -12,3 +12,4 @@ Script editing hello
 Script for mirror permission
 Script to give execute permission for subdirectories for user, groups and other
 Script to crete directory with permissions
+Script changing group owner
