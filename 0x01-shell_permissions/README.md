@@ -4,3 +4,4 @@ Script to print effective User
 Script printing all groups user in
 Script changing file ownership
 Script creating empty file hello
+Script adding execute permission to hello
