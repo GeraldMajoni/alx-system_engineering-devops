@@ -15,3 +15,4 @@ Script to crete directory with permissions
 Script changing group owner
 Script changing owner and group
 Script changing group and owner of symbolic link
+Script for changing ownership only if its owned by designated person
