@@ -14,3 +14,4 @@ Script to give execute permission for subdirectories for user, groups and other
 Script to crete directory with permissions
 Script changing group owner
 Script changing owner and group
+Script changing group and owner of symbolic link
