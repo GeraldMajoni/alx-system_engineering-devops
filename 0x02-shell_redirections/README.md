@@ -6,3 +6,5 @@
 6. Script printing the first 10 lines
 7. Script printing the third line
 8. Script creating file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+9. Script redirecting into another file
+
