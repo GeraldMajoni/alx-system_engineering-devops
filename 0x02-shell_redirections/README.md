@@ -9,3 +9,4 @@
 9. Script redirecting into another file
 10. Duplicating last line
 11. Removing all .js files
+12. Script counting all directories and subdirectories
