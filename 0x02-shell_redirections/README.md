@@ -7,4 +7,4 @@
 7. Script printing the third line
 8. Script creating file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 9. Script redirecting into another file
-
+10. Duplicating last line
