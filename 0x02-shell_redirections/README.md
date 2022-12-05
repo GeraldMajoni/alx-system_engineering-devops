@@ -8,3 +8,4 @@
 8. Script creating file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 9. Script redirecting into another file
 10. Duplicating last line
+11. Removing all .js files
