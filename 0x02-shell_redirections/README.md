@@ -12,3 +12,4 @@
 12. Script counting all directories and subdirectories
 13. Script listing files from newest to oldest
 14. Script to return unique words
+15. Script finding pattern root
