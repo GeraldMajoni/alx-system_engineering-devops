@@ -11,3 +11,4 @@
 11. Removing all .js files
 12. Script counting all directories and subdirectories
 13. Script listing files from newest to oldest
+14. Script to return unique words
