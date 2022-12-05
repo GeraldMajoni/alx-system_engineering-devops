@@ -5,3 +5,4 @@
 5. Script printing the last 10 lines
 6. Script printing the first 10 lines
 7. Script printing the third line
+8. Script creating file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
