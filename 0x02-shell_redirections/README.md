@@ -15,3 +15,4 @@
 15. Script finding pattern root
 16. Script counting a pattern
 17. Script finding pattern and 3 lines after them
+18. Script printing files without a match
