@@ -5,3 +5,4 @@
 5. Script printing Global Variables
 6. Script printing local variables and environment variables, and functions
 7. Script to create local variable
+8. Script creating Global Variable
