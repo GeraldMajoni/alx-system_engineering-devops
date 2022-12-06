@@ -15,3 +15,4 @@
 15. Script converting number from base 10 to 16
 16. Script for rot13 encryption
 17. Script to print every other line from input
+18. Script adding numbers of different bases
