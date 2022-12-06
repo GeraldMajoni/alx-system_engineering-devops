@@ -11,3 +11,4 @@
 11. Script for breathe to the power love
 12. Script converting base 2 to 10
 13. Script for all possible combinations
+14. Script printing 2 decimal places
