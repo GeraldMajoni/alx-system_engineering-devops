@@ -24,3 +24,4 @@
 24. Script removing empty files and displaying only names 
 25. Script finding ,gif and printing without extension
 26. Script decoding acrostic
+27. Script parsing web servers for most requests
