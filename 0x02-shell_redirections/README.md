@@ -19,4 +19,5 @@
 19. Script to print file starting with a letter
 20. Script replacing letters
 21. Script removing letters
-22. Script to reverese input 
+22. Script to reverese input
+23. Script to select certain fields and data to display 
