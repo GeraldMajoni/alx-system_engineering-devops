@@ -23,3 +23,4 @@
 23. Script to select certain fields and data to display
 24. Script removing empty files and displaying only names 
 25. Script finding ,gif and printing without extension
+26. Script decoding acrostic
