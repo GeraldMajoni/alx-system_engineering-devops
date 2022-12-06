@@ -3,3 +3,4 @@
 3. Script adding /action to PATH
 4. Script counting directories in PATH
 5. Script printing Global Variables
+6. Script printing local variables and environment variables, and functions
