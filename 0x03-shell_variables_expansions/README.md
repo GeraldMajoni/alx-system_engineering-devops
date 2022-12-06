@@ -12,3 +12,4 @@
 12. Script converting base 2 to 10
 13. Script for all possible combinations
 14. Script printing 2 decimal places
+15. Script converting number from base 10 to 16
