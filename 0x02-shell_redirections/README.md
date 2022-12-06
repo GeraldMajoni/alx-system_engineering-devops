@@ -20,4 +20,5 @@
 20. Script replacing letters
 21. Script removing letters
 22. Script to reverese input
-23. Script to select certain fields and data to display 
+23. Script to select certain fields and data to display
+24. Script removing empty files and displaying only names 
