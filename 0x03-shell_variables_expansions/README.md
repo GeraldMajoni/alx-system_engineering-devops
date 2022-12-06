@@ -10,3 +10,4 @@
 10. Script for divide and rule
 11. Script for breathe to the power love
 12. Script converting base 2 to 10
+13. Script for all possible combinations
