@@ -13,3 +13,4 @@
 13. Script for all possible combinations
 14. Script printing 2 decimal places
 15. Script converting number from base 10 to 16
+16. Script for rot13 encryption
