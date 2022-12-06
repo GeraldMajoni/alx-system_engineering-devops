@@ -9,3 +9,4 @@
 9. Script for arithmetic expansion
 10. Script for divide and rule
 11. Script for breathe to the power love
+12. Script converting base 2 to 10
