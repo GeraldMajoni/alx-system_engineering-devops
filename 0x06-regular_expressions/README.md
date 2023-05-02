@@ -28,6 +28,3 @@
             [SENDER] is the sender phone number or name (including country code if present).
             [RECEIVER] is the receiver phone number or name (including country code if present).
             [FLAGS] is the flags that were used.
-
-    9. Pass LinkedIn technical interview level0
-        101-passed_linkedin_regex_challenge.jpg: Screenshot signifying completion of the LinkedIn Engineering Regex Puzzle.
